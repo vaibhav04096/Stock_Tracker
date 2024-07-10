@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "id": "9542",
+      "Email": "vsrivastava04096@gmail.com",
+      "Password": "helloworld",
+      "Stocks": [
+        "GOOG",
+        "TSLA",
+        "AMZN",
+        "META"
+      ]
+    },
+    {
+      "id": "b13f",
+      "Email": "anuj@123",
+      "Password": "123",
+      "Stocks": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "6448",
+      "Email": "rsethu220@gmail.com",
+      "Password": "helloworld",
+      "Stocks": [
+        "GOOG",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "2099",
+      "Email": "premxmehra@gmail.com",
+      "Password": "qwerty",
+      "Stocks": [
+        "GOOG",
+        "TSLA",
+        "META",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "c2ab",
+      "Email": "rishabh123@gmail.com",
+      "Password": "123456789",
+      "Stocks": [
+        "NVDA",
+        "META",
+        "TSLA"
+      ]
+    },
+    {
+      "id": "10b0",
+      "Email": "vaibhav@123",
+      "Password": "123",
+      "Stocks": [
+        "GOOG",
+        "AMZN",
+        "NVDA"
+      ]
+    }
+  ]
+}
